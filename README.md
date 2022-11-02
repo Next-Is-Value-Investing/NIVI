@@ -19,3 +19,6 @@ https://docs.google.com/forms/d/14DSvxvsHk_pX9LTUfK7FRqGlzS7hl46TFXZ3ia8KFIo/edi
 # For any Technical Assistance - 
 You can drop a note and our team will connect with you as soon as poosible. As of now we are responding through email and working towards better service through voice in near future.
 Contact: - nextisvalueinvesting@gmail.com
+
+# Latest Version
+1.0.0
