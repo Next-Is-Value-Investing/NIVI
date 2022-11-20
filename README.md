@@ -22,4 +22,4 @@ You can drop a note and our team will connect with you as soon as poosible. As o
 Contact: - nextisvalueinvesting@gmail.com
 
 # Latest Version
-1.0.0
+1.1.0
