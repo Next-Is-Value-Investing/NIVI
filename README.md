@@ -16,6 +16,8 @@ https://docs.google.com/forms/d/14DSvxvsHk_pX9LTUfK7FRqGlzS7hl46TFXZ3ia8KFIo/edi
 - That's all ... Now you are set to fly with Algo trading.
 - Enjoy Super profits and keep cheering with your valueable feedback.
 
+# Video for step by step configuration
+https://youtu.be/rPOZqJRQvgo
 
 # For any Technical Assistance - 
 You can drop a note and our team will connect with you as soon as poosible. As of now we are responding through email and working towards better service through voice in near future.
