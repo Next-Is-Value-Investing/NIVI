@@ -6,7 +6,7 @@ Please follow the below steps to start using the App.
 - Create the Fyer's Demat Account using below link\
 https://open-account.fyers.in/?utm-source=Customer-Referral&utm-medium=XM03674
 - Share the Acc creation screen shoot / Payment screen shoot on the below Google Form to get onboarded / extend the validty.\
-https://docs.google.com/forms/d/14DSvxvsHk_pX9LTUfK7FRqGlzS7hl46TFXZ3ia8KFIo/edit
+https://docs.google.com/forms/d/14DSvxvsHk_pX9LTUfK7FRqGlzS7hl46TFXZ3ia8KFIo
 - Once your request has been approved from Adiminstartor you will receive a mail with end date and till that time you will be able to use the Application.
 - Download the latest version of NIVI.exe, geckodriver.exe and NextIsValueInvesting.xlsx and save in same folder.
 - NIVI.exe is the main application to run for the algo trading.
